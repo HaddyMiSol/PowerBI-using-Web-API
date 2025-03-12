@@ -1,4 +1,4 @@
-# PowerBI-using-Web-API!
+# HIV Daily Report Monitoring Dashboard-using-Web-API!
 ## Overview
 This repository contains a Power BI dashboard that leverages the DHIS2 web API as its data source.  Data is extracted from DHIS2 via the API and loaded into Power BI, where Power Query is used for data cleaning, manipulation, and restructuring.  The dashboard provides a range of analyses, including an indicator summary report, trend analysis, concurrence analysis between indicators, an accountability matrix, and target achievement monitoring, among other features.
 
@@ -20,7 +20,8 @@ Beyond the project's striking visuals, its most compelling feature was the autom
     Table.SelectRows, Table.ReorderColumns, Table.SplitColumn, Table.ReplaceValue, Table.Pivot, Table.Unpivot
   - Creating reuseable functions
 
-You can view my Power BI report here: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNmM0NTU3YTctZmRkNS00NjA0LWE2MjgtN2Y0ZWUwZjhmYzgzIiwidCI6Ijc4MDNkYTk1LWZkMDQtNDg2ZC04ZTllLTI5NGExODdjMWQyNCJ9)
+You can view my Power BI report here: [HIV Daily Report Monitoring Dashboard-using-Web-API](https://app.powerbi.com/view?r=eyJrIjoiNmM0NTU3YTctZmRkNS00NjA0LWE2MjgtN2Y0ZWUwZjhmYzgzIiwidCI6Ijc4MDNkYTk1LWZkMDQtNDg2ZC04ZTllLTI5NGExODdjMWQyNCJ9)
+You can download my Power BI report here: [HIV Daily Report Monitoring Dashboard-using-Web-API](https://drive.google.com/file/d/1wNT2lTmU9fDeXdEVevhktoe7zqIspPFp/view?usp=drive_link)
 
 Feel free to explore and provide feedback!😊
 
