@@ -22,7 +22,7 @@ Beyond the project's striking visuals, its most compelling feature was the autom
 
 You can view my Power BI report here: [HIV Daily Report Monitoring Dashboard-using-Web-API](https://app.powerbi.com/view?r=eyJrIjoiNmM0NTU3YTctZmRkNS00NjA0LWE2MjgtN2Y0ZWUwZjhmYzgzIiwidCI6Ijc4MDNkYTk1LWZkMDQtNDg2ZC04ZTllLTI5NGExODdjMWQyNCJ9)
 
-You can download my Power BI report here: [HIV Daily Report Monitoring Dashboard-using-Web-API](https://drive.google.com/file/d/1wNT2lTmU9fDeXdEVevhktoe7zqIspPFp/view?usp=drive_link)
+You can download my Power BI report here: [HIV Daily Report Monitoring Dashboard-using-Web-API](https://drive.google.com/file/d/1ALoTW_aIP6lmzHcLvdRX8TPeeo7t_g46/view?usp=sharing)
 
 Feel free to explore and provide feedback!😊
 
